@@ -15,7 +15,7 @@ logging.basicConfig(
     level=logging.INFO
 )
 
-BOT_TOKEN = "8506038424:AAH4LSquaNRRB11aolVkp5J1-I27GXO4zao"
+BOT_TOKEN = ""
 
 # Configuración APIs
 client = Client()
