@@ -6,21 +6,21 @@
 
 Bot de trading algorítmico que analiza mercados en tiempo real y ejecuta operaciones automáticas usando análisis técnico.
 
-## 🚀 Características Principales
+##  Características Principales
 
-### 📈 Análisis Técnico Avanzado
+###  Análisis Técnico Avanzado
 - **Múltiples indicadores**: RSI, MACD, Medias Móviles
 - **Señales automáticas**: COMPRA/VENTA/ESPERA
 - **Análisis en tiempo real** de Bitcoin
 - **Interpretación inteligente** de tendencias
 
-### 🤖 Trading Automático
+###  Trading Automático
 - **Ejecución automática** cada 3 minutos
 - **Gestión de riesgo**: Stop-Loss (3%) y Take-Profit (6%)
 - **Simulación con capital virtual** ($1,000)
 - **Notificaciones en tiempo real** en Telegram
 
-### 💼 Sistema de Simulación
+###  Sistema de Simulación
 - **Registro completo** de operaciones en JSON
 - **Estadísticas detalladas**: Win Rate, ganancias, rendimiento
 - **Historial operativo** con timestamps
